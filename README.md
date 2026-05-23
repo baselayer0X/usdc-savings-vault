@@ -27,10 +27,10 @@ No yield, no complexity — just an on-chain commitment device that enforces you
 | Network | Ethereum Mainnet |
 | Solidity version | 0.8.20 |
 | USDC address (Mainnet) | `0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48` |
-| USDC decimals | 6 (10 USDC = 10,000,000 units) |
-| Deployed address | *(add after deployment)* |
-| Etherscan | *(add link after deployment)* |
-| Transaction hash | *(add after deployment)* |
+| USDC decimals | 6 (5 USDC = 5,000,000 units) |
+| Deployed address | 0x005119Cf038E5645B0496810466e194D3D783137 |
+| Etherscan | 0x005119Cf038E5645B0496810466e194D3D783137 |
+| Transaction hash | 0x9a1e9dc0ad9a2576f35e766d5a29a73922a78cb1615c6b7eca2953aeec8c1a4b |
 
 ---
 
