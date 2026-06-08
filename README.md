@@ -129,6 +129,6 @@ Before deploying on mainnet with real USDC, test on Sepolia testnet:
 ---
 
 ## GitHub
-[github.com/pr-approved](https://github.com/baselayer0X)
+[github.com/baselayer0X](https://github.com/baselayer0X)
 
 Built May 2026
